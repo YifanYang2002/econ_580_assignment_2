@@ -1,0 +1,14 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)
+VARIABLES	gradrate4yr	gradrate4yr	gradrate4yr	gradrate4yr	womengradrate4yr	mengradrate4yr	urmgradrate4yr
+							
+Constant	0.404	0.404	0.404	0.404	0.452	0.347	0.337
+	(0.000)	(0.000)	(53,849.303)	(53,849.303)	(74,608.977)	(.)	(.)
+							
+Observations	1,211	1,211	1,211	1,211	1,207	1,184	1,211
+R-squared	1.000	1.000	1.000	1.000	1.000	1.000	1.000
+School FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Controls	No	Yes	No	Yes	No	No	No
+Time Trends	No	No	Yes	Yes	Yes	Yes	Yes
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							
